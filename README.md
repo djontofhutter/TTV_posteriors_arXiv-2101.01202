@@ -1,5 +1,13 @@
 # TTV_posteriors_arXiv-2101.01202
 Posterior samples of TTV systems in arXix:2101.0120
+================================================================================
+Title: Following up the Kepler field: Masses of Targets for transit timing 
+       and atmospheric characterization 
+Authors: Jontof-Hutter D., Wolfgang A., Ford E.B., Lissauer J.J., 
+    Fabrycky D.C., Rowe J.F. 
+================================================================================
+
+
 Description of contents: This repository contains posterior samples for the
     TTV modeling of 48 planetary systems, having 2-4 planets in each system.
     There is one file per planetary system and each file contains five
